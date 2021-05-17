@@ -1,0 +1,18 @@
+<theme>
+	
+	<formatVersion>4</formatVersion>
+	<include>./../retrobox.xml</include>
+	
+	<view name="system, basic, grid">
+		<image name="logo">
+			<path>./../_inc/system_logos/${system.theme}.png</path>
+		</image>
+	</view>
+	
+	<view name="grid">
+		<image name="md_marquee">
+			<maxSize>0.65 0.45</maxSize>
+			<pos>0.79 0.37</pos>
+		</image>
+	</view>		
+</theme>
